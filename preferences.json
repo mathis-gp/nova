@@ -7,6 +7,12 @@
     },
     {
         "type": "checkbox",
+        "property": "nova-enable-findbar",
+        "label": "Enable Findbar",
+        "defaultValue": true
+    },
+    {
+        "type": "checkbox",
         "property": "nova-enable-border",
         "label": "Enable border",
         "defaultValue": false

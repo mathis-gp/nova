@@ -1,9 +1,9 @@
 {
-    "id": "nova",
-    "homepage": "https://github.com/qumeqa/nova",
-    "author": "qumeqa",
-    "name": "Nova UI",
-    "description": "A Zen theme enhancement that refines spacing, padding, and visual consistency across the interface",
+    "id": "nova_mathis-gp",
+    "homepage": "https://github.com/mathis-gp/nova",
+    "author": "mathis-gp",
+    "name": "Nova UI - mathis-gp",
+    "description": "A Zen theme enhancement that refines spacing, padding, and visual consistency across the interface - Fork of qumeqa's Nova UI",
     "version": "2.2",
     "createdAt": "2026-01-30",
     "updatedAt": "2026-02-19",
@@ -11,8 +11,8 @@
         "chrome": "userChrome.css"
     },
     "preferences": "preferences.json",
-    "readme": "https://raw.githubusercontent.com/qumeqa/nova/refs/heads/main/README.md",
-    "image": "https://raw.githubusercontent.com/qumeqa/nova/refs/heads/main/img/cover.jpg",
+    "readme": "https://raw.githubusercontent.com/mathis-gp/nova/refs/heads/main/README.md",
+    "image": "https://raw.githubusercontent.com/mathis-gp/nova/refs/heads/main/img/cover.jpg",
     "tags": [
         "modern",
         "ui",
